@@ -14,7 +14,7 @@ The fastest way to get started is using Docker. This includes all dependencies (
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/springboardmentor425/Designing-an-Autonomous-Learning-Agent-with-Checkpoint-Verification-and-Feynman-Pedagogy---Group-2.git
+git clone url
 cd deep_research_from_scratch
 ```
 
